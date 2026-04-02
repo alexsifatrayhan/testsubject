@@ -1,0 +1,12 @@
+{
+  "showAnnouncement": false,
+  "announcementText": "Update Available!",
+
+  "showContactButton": true,
+  "contactButtonText": "CONTACT ME",
+  "contactButtonUrl": "https://t.me/sr7mods",
+
+  "showAnnouncementButton": false,
+  "announcementButtonText": "DOWNLOAD MOD",
+  "announcementButtonUrl": "https://alexsifatrayhan.github.io/sr7mods-app-store/"
+}
